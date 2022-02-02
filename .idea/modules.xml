@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../booking-service/booking-service.iml" filepath="$PROJECT_DIR$/../booking-service/booking-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/central-configuration.iml" filepath="$PROJECT_DIR$/.idea/central-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-server/config-server.iml" filepath="$PROJECT_DIR$/../config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/../discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../product-service/product-service.iml" filepath="$PROJECT_DIR$/../product-service/product-service.iml" />
     </modules>
   </component>
 </project>
